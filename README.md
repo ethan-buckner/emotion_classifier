@@ -1,4 +1,4 @@
-# Group 1 - Project 3, 
+# Group 1 - Project 3, Separating Sound Data 
 
 ## Table of Contents
 - SRC:
@@ -28,6 +28,7 @@
 | -------- | -------- |
 
 ## References
+[1] S. Wisdom et al., "What’s All the FUSS About Free Universal Sound Separation Data?," in 46th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021), Toronto/Virtual, Canada, 2021, pp. 9414774. https://doi.org/10.1109/ICASSP39728.2021.9414774
 
 ### Previous Work
 - MI-1: https://docs.google.com/document/d/18hC13QO4HtA7PaNARlzhyyeMSJZ7ZLVqHICdxkPT2h4/edit?usp=sharing
