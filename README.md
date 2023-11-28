@@ -28,7 +28,7 @@
 | -------- | -------- |
 
 ## References
-[1] S. Wisdom et al., "What’s All the FUSS About Free Universal Sound Separation Data?," in 46th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021), Toronto/Virtual, Canada, 2021, pp. 9414774. https://doi.org/10.1109/ICASSP39728.2021.9414774
+[1] S. R. Livingstone and F. A. Russo, "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English," in PLoS ONE, vol. 13, no. 5, May 2018, Art. no. e0196391. doi: 10.1371/journal.pone.0196391.
 
 ### Previous Work
 - MI-1: https://docs.google.com/document/d/18hC13QO4HtA7PaNARlzhyyeMSJZ7ZLVqHICdxkPT2h4/edit?usp=sharing
