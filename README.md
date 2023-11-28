@@ -24,8 +24,16 @@
 
 ## DATA
 ### Dataset Dictionary
+NOTE: We are only using speech files that are in audio-only format. Therefore, these two indicators were removed from the data dictionary. If they were included, audio-only files are denoated by "03" and speech is indicated by "01".
+
 | Column Name | Definition | 
 | -------- | -------- |
+| Audio | Bit encoding of the original, clean audio |
+| Emotion | 01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised |
+| Emotional intensity | 01 = normal, 02 = strong (NOTE: There is no strong intensity for the 'neutral' emotion.) |
+| Statement | 01 = "Kids are talking by the door", 02 = "Dogs are sitting by the door" |
+| Repetition | 01 = 1st repetition, 02 = 2nd repetition |
+| Actor |01 to 24. Odd numbered actors are male, even numbered actors are female |
 
 ## References
 [1] S. R. Livingstone and F. A. Russo, "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English," in PLoS ONE, vol. 13, no. 5, May 2018, Art. no. e0196391. doi: 10.1371/journal.pone.0196391.
