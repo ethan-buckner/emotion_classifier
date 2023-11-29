@@ -28,7 +28,7 @@ NOTE: We are only using speech files that are in audio-only format. Therefore, t
 
 | Column Name | Definition | 
 | -------- | -------- |
-| Audio | Bit encoding of the original, clean audio |
+| Audio | Wave encoding of the original, clean audio |
 | Emotion | 01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised |
 | Emotional intensity | 01 = normal, 02 = strong (NOTE: There is no strong intensity for the 'neutral' emotion.) |
 | Statement | 01 = "Kids are talking by the door", 02 = "Dogs are sitting by the door" |
