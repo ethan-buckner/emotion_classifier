@@ -3,8 +3,6 @@
 ## Table of Contents
 - SRC:
   - This folder contains all of the source code for our project. This folder contains all code used to load and combine the  data as well as structure the final model for training.
-- DATA:
-  - This folder is where we store all datasets being used for this project.
 - Figures:
   -  This folder contains exploratory plots looking into the distribution of data. 
 
@@ -16,13 +14,15 @@
   
 ### Notebook Files
 | Notebook Name | Decription |
-| -------- | -------- |
+| Audio_Classification.ipynb | Fine tunes a model for classification |
 
 
 ### Usage
-- To use this model, first unpickle it. Then call the sklearn method predict(data) to get predictions.
+- To use this model, run the Audio_Classification.ipynb file
 
 ## DATA
+Data is programmatically downloaded using the huggingface datasets library
+
 ### Dataset Dictionary
 NOTE: We are only using speech files that are in audio-only format. Therefore, these two indicators were removed from the data dictionary. If they were included, audio-only files are denoated by "03" and speech is indicated by "01".
 
