@@ -1,4 +1,4 @@
-# Group 1 - Project 3, Separating Sound Data 
+# Group 1 - Project 3, Identifying Emotion from Audio Data
 
 ## Table of Contents
 - SRC:
