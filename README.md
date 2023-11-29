@@ -35,6 +35,11 @@ NOTE: We are only using speech files that are in audio-only format. Therefore, t
 | Repetition | 01 = 1st repetition, 02 = 2nd repetition |
 | Actor |01 to 24. Odd numbered actors are male, even numbered actors are female |
 
+## Figures
+| Figure | Takeaways | 
+| -------- | -------- |
+|  ![Figure 1](Figures/P3-Confusion_Matrix.png) | This figure is a confusion matrix of our results of the classification model created for this project. As you can see, this model shows that we were able to accurately classify emotion 67% of the time for top one accuracy on the validation data by the last epoch. For the top two accuracy, we were able to predict emotion 81% of the time. |
+
 ## References
 [1] S. R. Livingstone and F. A. Russo, "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English," in PLoS ONE, vol. 13, no. 5, May 2018, Art. no. e0196391. doi: 10.1371/journal.pone.0196391.
 
