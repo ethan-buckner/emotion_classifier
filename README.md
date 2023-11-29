@@ -13,8 +13,10 @@
 - File paths may be incorrect on your machine, you are recommended to check all file paths before running.
   
 ### Notebook Files
-| Notebook Name | Decription |
-| Audio_Classification.ipynb | Fine tunes a model for classification |
+| Notebook Name             | Description                                |
+|---------------------------|--------------------------------------------|
+| Audio_Classification.ipynb | Fine tunes a model for classification      |
+
 
 
 ### Usage
